@@ -1,13 +1,22 @@
 # Carpeta Python
 
-Código fuente del módulo de conexión entre **Python y Oracle Database**.  
-Incluye ejemplos de ejecución de procedimientos almacenados y pruebas del CRUD.
+Esta carpeta contiene el código fuente del módulo de conexión entre **Python y Oracle Database** para el proyecto **EcoMarket S.A.**
 
-## Archivos
-- **conexion.py** → Script que realiza la conexión con Oracle y ejecuta procedimientos almacenados.  
-- **requirements.txt** → Lista de dependencias necesarias para ejecutar el código.
+Incluye ejemplos de ejecución de procedimientos almacenados y pruebas del CRUD, cumpliendo con el requerimiento de conexión al lenguaje definido en el Avance 1.
 
-## Instrucciones de uso
+---
+
+## Archivos incluidos
+
+| Archivo | Descripción |
+|----------|--------------|
+| `conexion.py` | Script de conexión con Oracle y ejecución de procedimientos almacenados. |
+| `requirements.txt` | Dependencias necesarias para correr el código Python. |
+
+---
+
+## Ejecución del módulo
+
 1. Instalar dependencias:
    ```bash
    pip install -r requirements.txt
