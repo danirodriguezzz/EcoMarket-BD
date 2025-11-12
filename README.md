@@ -1,11 +1,11 @@
-# EcoMarket S.A. – Avance 2
+# EcoMarket S.A.
 
 Sistema de gestión de inventario y ventas desarrollado en **Python + Oracle Database (PL/SQL)**  
 para el curso de **Base de Datos II** – Universidad Nacional de Costa Rica.
 
 ---
 
-## 📂 Estructura general del proyecto
+## Estructura general del proyecto
 
 | Carpeta | Descripción |
 |----------|-------------|
@@ -15,7 +15,7 @@ para el curso de **Base de Datos II** – Universidad Nacional de Costa Rica.
 
 ---
 
-## ⚙️ Ejecución
+## Ejecución
 
 ### 1. Crear la base de datos
 Ejecutar el archivo [`sql/avance2.sql`](./sql/avance2.sql) en Oracle SQL Developer, DBeaver o Oracle Live SQL.
